@@ -1,0 +1,10 @@
+pnr,train_number,passenger,age,gender,fare,status
+2073754132,12101,Demo Passenger 1,28,Female,250,Cancelled
+2074995585,11007,Demo Passenger 2,24,Female,400,Cancelled
+2084597862,11007,Demo Passenger 3,31,Female,400,Cancelled
+2559939988,12101,Demo Passenger 4,29,Female,250,Confirmed
+3100265581,12101,Demo Passenger 5,26,Female,250,Cancelled
+3197093269,11007,Demo Passenger 6,35,Male,400,Confirmed
+3272610932,12101,Demo Passenger 7,22,Male,250,Confirmed
+3381300819,12025,Demo Passenger 8,40,Male,850,Confirmed
+3383133505,12101,Demo Passenger 9,33,Male,250,Cancelled

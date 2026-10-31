@@ -1,0 +1,6 @@
+train_number,train_name,source,destination,current_station,next_station,delay_minutes,status_summary,distance_covered_km,distance_remaining_km,last_updated
+12101,Deccan Express,Pune,Mumbai,Lonavala,Karjat,8,Departed Lonavala - Running 8 mins late,72,120,Live - 2 mins ago
+11007,Deccan Queen,Pune,Mumbai,Talegaon,Lonavala,0,Passed Talegaon - Running On Time,46,146,Live - Just now
+12127,Intercity Express,Pune,Mumbai,Karjat,Thane,12,Departed Karjat - Running 12 mins late,132,60,Live - 3 mins ago
+12025,Shatabdi Express,Pune,Hyderabad,Solapur,Gulbarga,5,Departed Solapur - Running 5 mins late,188,378,Live - 1 min ago
+

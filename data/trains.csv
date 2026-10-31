@@ -1,0 +1,5 @@
+number,name,source,destination,fare,seats
+12101,Deccan Express,Pune,Mumbai,250,118
+11007,Deccan Queen,Pune,Mumbai,400,79
+12127,Intercity Express,Pune,Mumbai,300,100
+12025,Shatabdi Express,Pune,Hyderabad,850,59

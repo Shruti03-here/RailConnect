@@ -1,0 +1,54 @@
+# ==============================================================================
+# RailConnect .gitignore
+# ==============================================================================
+
+# Executables & C++ Compiled Binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+railway
+railway.exe
+.railway_build.exe
+*.bak
+
+# Python & Flask Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+.pytest_cache/
+instance/
+.webassets-cache
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Backups & Temporary Files
+backups/
+*.tmp
+*.log
+*.local
+*.original
